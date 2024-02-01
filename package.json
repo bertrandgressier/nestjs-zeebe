@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-zeebe",
+  "name": "nestjs10-zeebe",
   "version": "8.1.1",
   "description": "Zeebe microservice module and client for nestjs",
   "main": "dist/index.js",
